@@ -4,6 +4,8 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that analy
 
 Point it at a system description, URL, or codebase and it walks you through a full threat modeling workflow. It identifies assets, entry points, and threats, then recommends prioritized mitigations. The output is a ready-to-share markdown report.
 
+I plan to iterate and improve over time with more functionality.
+
 ## Supported Frameworks
 
 - **STRIDE** (default) - General-purpose threat categorization. Best for most applications.
