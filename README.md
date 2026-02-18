@@ -9,9 +9,11 @@ I plan to iterate and improve over time with more functionality.
 ## Supported Frameworks
 
 - **STRIDE** (default) - General-purpose threat categorization. Best for most applications.
-- **OWASP Top 10** - Web application-focused. Maps directly to common web vulnerabilities.
+- **OWASP Top 10 (2025)** - Web application-focused. Maps directly to common web vulnerabilities.
+- **OWASP Top 10 for LLMs and Gen AI Apps (2025)** - LLM/Gen AI systems. Addresses prompt injection, model poisoning, excessive agency.
+- **OWASP Top 10 for Agentic Applications (2026)** - AI agent systems and multi-agent architectures. Critical for autonomous agents with tool-calling.
 - **MITRE ATT&CK** - Adversary-focused. Good for understanding attack chains and building detection.
-- **Combined** - Use multiple frameworks for comprehensive coverage.
+- **Combined** - Use multiple frameworks for comprehensive coverage (e.g., STRIDE + OWASP, or OWASP Agentic + LLM).
 
 ## What You Can Feed It
 
